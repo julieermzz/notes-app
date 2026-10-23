@@ -6,3 +6,4 @@ import tailwindcss from '@tailwindcss/vita'
 export default defineConfig({
   plugins: [react() tailwindcss()],
 })
+plugins: [react(), tailwindcss()],
